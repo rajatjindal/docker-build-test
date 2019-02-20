@@ -1,1 +1,2 @@
-FROM golang
+FROM centos
+RUN touch /tmp/centos
